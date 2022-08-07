@@ -24,6 +24,8 @@ If you want to install it in another folder, modify the command call, the "../rF
 This softwares uses a Tkinter to generate a GUI
 
 # Usage
-Simply launch the downloader.py app with python 3, select what you want to download and where with the gui and you're good to go. Progress will be shown in the console output in the GUI
+Install tkinter via pip on windows or apt in debian based os (Ubuntu, popOs ....)
+
+Then Simply launch the downloader.py app with python 3, select what you want to download and where with the gui and you're good to go. Progress will be shown in the console output in the GUI
 
 Hope it'll help you. Don't hesitate to take this code and modify it.
